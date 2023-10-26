@@ -9,3 +9,8 @@
 # Christian SpaceX - 1 - Data Collection Api.ipynb (obtención de datos de un dataframe)
 # Christian SpaceX - 3 -EDA Using SQL.ipynb (análisis de datos con SQL)
 # Christian SpaceX - 4 - EDA with Data Visualization.ipynb (visualización de datos con gráficas)
+
+# 25_10_2023_Google_Collab_Chris
+# Christian M5 - 06 - Introducción a Machine Learning con Scikit-Learn (uso de Scikit-Learn para crear modelos predictivos)
+# Christian M5 - 09 - Folium (uso de folium para crear mapas)
+# Christian Prophet v2 - Predecir el valor de Dogecoin (modelo predictivo de la Dogecoin)
